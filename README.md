@@ -47,8 +47,8 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&theme=dracula"/>
+  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&theme=dracula"/>
 </div>
 
 ---
