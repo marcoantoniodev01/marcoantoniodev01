@@ -1,10 +1,10 @@
-<h1 align="center">Olá, eu sou o Marco Antônio! 👋</h1>
+<h1 align="left">Olá, eu sou o Marco Antônio! 👋</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=marcoantoniodev01&label=Profile%20Views&color=0e75b6&style=flat" alt="marcoantoniodev01" />
 </p>
 
-<p align="center">
+<p align="left">
   <em>Técnico em Desenvolvimento de Sistemas (SENAC) | 16 anos</em>
 </p>
 
@@ -24,7 +24,7 @@ Sou um programador apaixonado por transformar café em código! ☕ Recentemente
 
 Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -46,7 +46,7 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&theme=dracula"/>
 </div>
@@ -55,7 +55,7 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 
 ### 📬 Como me encontrar
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/marco-antônio-bezerra-cardoso-filho-4004a7377/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
@@ -71,6 +71,6 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 
 <br/>
 
-<p align="center">
+<p align="left">
   <i>"A melhor maneira de prever o futuro é inventá-lo."</i>
 </p>
