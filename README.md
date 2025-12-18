@@ -61,13 +61,9 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 <div align="left"> 
   <a href="https://www.linkedin.com/in/marco-antônio-bezerra-cardoso-filho-4004a7377/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  
-  &nbsp;&nbsp;&nbsp; <a href="mailto:marcoantonio.dev01@gmail.com">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:marcoantonio.dev01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-
-  &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/marco.a.071/">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/marco.a.071/">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
@@ -75,5 +71,5 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 <br/>
 
 <p align="left">
-  <i>"A melhor maneira de prever o futuro é inventá-lo."</i>
+  <i>"Perdedor não é o que fracassa, é o que não se dedica para alcançar a vitória 🏅"</i>
 </p>
