@@ -47,24 +47,27 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&theme=dracula"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&hide_border=true" alt="Marco Stats"/>
+  
+  <br/> <br/>
+  
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&hide_border=true" alt="Marco Languages"/>
 </div>
 
 ---
 
 ### 📬 Como me encontrar
 
-<div align="left" gap="1.2rem"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/marco-antônio-bezerra-cardoso-filho-4004a7377/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
-  <a href="mailto:marcoantonio.dev01@gmail.com">
+  
+  &nbsp;&nbsp;&nbsp; <a href="mailto:marcoantonio.dev01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://www.instagram.com/marco.a.071/">
+  &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/marco.a.071/">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
