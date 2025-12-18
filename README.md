@@ -59,7 +59,7 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 ### 📬 Como me encontrar
 
 <div align="left"> 
-  <a  href="https://www.linkedin.com/in/marco-antônio-bezerra-cardoso-filho-4004a7377/" target="_blank">
+  <a  href="https://www.linkedin.com/in/marco-antônio-4004a7377" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:marcoantonio.dev01@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
