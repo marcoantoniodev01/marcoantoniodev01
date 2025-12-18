@@ -47,11 +47,11 @@ Aqui estão as tecnologias que domino e utilizo nos meus projetos:
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&icon_color=0e75b6&border_color=30363d&hide_border=false" alt="Marco Stats"/>
+  <img style="align: left; height:180em;" src="https://github-readme-stats.vercel.app/api?username=marcoantoniodev01&show_icons=true&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&icon_color=0e75b6&border_color=30363d&hide_border=false" alt="Marco Stats"/>
   
   <br/> <br/>
   
-  <img style="align: left; width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&icon_color=0e75b6&border_color=30363d&hide_border=false" alt="Marco Languages"/>
+  <img style="align: left; height:180em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniodev01&layout=compact&bg_color=161b22&title_color=ffffff&text_color=c9d1d9&icon_color=0e75b6&border_color=30363d&hide_border=false" alt="Marco Languages"/>
 </div>
 
 ---
